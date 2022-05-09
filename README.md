@@ -1,7 +1,6 @@
-Symbolic Calculator
-Author: Aljaz Kovac (alko5923) and Leo Arnholm
+# Welcome to the Programmable Symbolic Calculator
 
-What is it?
+## What is it?
 This is a Symbolic Calculator, an easy tool to use if you'd like to write your own 
 mathematical functions and perform calculations. Here is an example of how you would 
 implement a simple factorial function: 
@@ -11,7 +10,7 @@ function factorial(n)
   if n > 1 {factorial(m) * n} else {1}
 end
 
-How to use? 
+## How to use? 
 Type "make all" in a Linux-compatible terminal, followed by "make run". 
 
 Important!
