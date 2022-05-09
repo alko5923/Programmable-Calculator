@@ -1,3 +1,5 @@
+![calculator-java](https://github.com/alko5923/Programmable-Calculator/blob/main/calculator-java.png)
+
 # Welcome to the Programmable Symbolic Calculator
 
 ## What is it?
