@@ -1,0 +1,6 @@
+5=x
+Sin(x)=y
+y/2
+Vars
+Clear
+Quit

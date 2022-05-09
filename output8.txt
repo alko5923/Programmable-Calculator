@@ -1,0 +1,21 @@
+Welcome to the parser!
+Please enter an expression: Added a new function: 
+function factorial(n) 
+n - 1.0 = m
+if n > 1.0 {factorial(m) * n} else {1.0}
+
+Please enter an expression: 24.0
+Please enter an expression: Variables: 
+Please enter an expression: Added a new function: 
+function gcd(a, b) 
+b - a = ba
+a - b = ab
+if a == b {a} else {if a < b {gcd(a, ba)} else {gcd(ab, b)}}
+
+Please enter an expression: 120.0
+Please enter an expression: 150.0
+Please enter an expression: 30.0
+Please enter an expression: Variables: a = 120.0, b = 150.0
+Please enter an expression: Number of expressions entered: 4
+Number of expressions fully evaluated: 4
+Good bye!

@@ -1,0 +1,13 @@
+{1 = x}
+Vars
+{1 = x} + {1 = x}
+Vars
+{{1 = x} = x}
+Vars
+{(2 = x) + {1 = x}}
+Vars
+(1 = x) + {(2 + x = x) + {3 + x = x}}
+Vars
+{{1 = x} = x} = y
+Vars
+Quit

@@ -1,0 +1,8 @@
+Welcome to the parser!
+Please enter an expression: 9.0
+Please enter an expression: 4.0
+Please enter an expression: 36.0
+Please enter an expression: -288.0
+Please enter an expression: Number of expressions entered: 4
+Number of expressions fully evaluated: 4
+Good bye!

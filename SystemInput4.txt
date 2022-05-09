@@ -1,0 +1,8 @@
+5=a
+Vars
+a=pi
+5=Answer
+(3.2 = pi) + (42 = L)
+-3 = e
+3/6=pi
+Quit

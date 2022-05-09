@@ -1,0 +1,16 @@
+Welcome to the parser!
+Please enter an expression: 1.0
+Please enter an expression: Variables: 
+Please enter an expression: 2.0
+Please enter an expression: Variables: 
+Please enter an expression: 1.0
+Please enter an expression: Variables: 
+Please enter an expression: 3.0
+Please enter an expression: Variables: 
+Please enter an expression: 10.0
+Please enter an expression: Variables: x = 1.0
+Please enter an expression: 1.0
+Please enter an expression: Variables: x = 1.0, y = 1.0
+Please enter an expression: Number of expressions entered: 6
+Number of expressions fully evaluated: 6
+Good bye!

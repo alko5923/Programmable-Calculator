@@ -1,0 +1,7 @@
+5=x
+Cos(x)=y
+Log(x+y)=z
+Neg(z)=m
+Vars
+Clear
+Quit

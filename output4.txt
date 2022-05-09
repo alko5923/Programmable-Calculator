@@ -1,0 +1,16 @@
+Welcome to the parser!
+Please enter an expression: 5.0
+Please enter an expression: Variables: a = 5.0
+Please enter an expression: Error, assignments to namedConstants:
+a = pi
+Please enter an expression: Error, assignments to namedConstants:
+5.0 = Answer
+Please enter an expression: Error, assignments to namedConstants:
+3.2 = pi
+Please enter an expression: Error, assignments to namedConstants:
+-3.0 = e
+Please enter an expression: Error, assignments to namedConstants:
+3.0 / 6.0 = pi
+Please enter an expression: Number of expressions entered: 1
+Number of expressions fully evaluated: 1
+Good bye!

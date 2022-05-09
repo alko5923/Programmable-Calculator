@@ -1,0 +1,8 @@
+Welcome to the parser!
+Please enter an expression: 5.0
+Please enter an expression: -0.9589242746631385
+Please enter an expression: -0.4794621373315692
+Please enter an expression: Variables: x = 5.0, y = -0.9589242746631385
+Please enter an expression: Please enter an expression: Number of expressions entered: 3
+Number of expressions fully evaluated: 3
+Good bye!

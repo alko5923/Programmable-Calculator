@@ -1,0 +1,16 @@
+Welcome to the parser!
+Please enter an expression: 5.0
+Please enter an expression: 7.0
+Please enter an expression: 42.0
+Please enter an expression: 4711.0
+Please enter an expression: Variables: x = 5.0, y = 7.0
+Please enter an expression: 7.0
+Please enter an expression: 42.0
+Please enter an expression: 42.0
+Please enter an expression: Variables: x = 7.0, y = 7.0
+Please enter an expression: 9.0
+Please enter an expression: 9.0
+Please enter an expression: Variables: x = 7.0, y = 9.0
+Please enter an expression: Number of expressions entered: 9
+Number of expressions fully evaluated: 9
+Good bye!

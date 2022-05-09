@@ -1,0 +1,13 @@
+5=x
+7=y
+if x < y {42.0} else {4711.0}
+if x > y {42.0} else {4711.0}
+Vars
+7=x
+if x <= y {42.0} else {4711.0}
+if x >= y {42.0} else {4711.0}
+Vars
+9=y
+if x == y {x} else {y}
+Vars
+Quit
